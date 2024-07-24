@@ -1,12 +1,14 @@
 # Amazon_sales_report
-# Problem Statement:   
+ Problem Statement:   
 Analyze and Provide Insights on Amazon Sales Report 
-# Problem Description:
+
+ Problem Description:
 The provided dataset contains information about sales transactions on Amazon, including details such as order 
 ID, date, status, fulfilment method, sales channel, product category, size, quantity, amount, shipping details, 
 and more. The objective is to conduct a comprehensive analysis of the data and extract actionable insights to 
 support business decision-making.
-# Key Objectives:
+
+ Key Objectives:
 1. Sales Overview: Understand the overall sales performance, trends, and paƩerns over time.
 2. Product Analysis: Analyze the distribution of product categories, sizes, and quantities sold to identify popular 
 products. 
@@ -16,7 +18,8 @@ factors.
 5. Geographical Analysis: Explore the geographical distribution of sales, focusing on states and cities.
 6. Business Insights: Provide actionable insights and recommendations based on the analysis to optimize sales 
 strategies, improve customer satisfaction, and enhance overall business performance.
-# Expected Outcome: 
+
+ Expected Outcome: 
 By conducting a thorough analysis of the Amazon sales report, the goal is to gain valuable insights that can be 
 leveraged to optimize business operations, enhance customer experience, and drive revenue growth. The 
 analysis should provide actionable recommendations tailored to the specific needs and challenges of the 
